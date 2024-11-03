@@ -1,0 +1,8 @@
+/* src/app.css */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+  @apply bg-black text-white;
+}
